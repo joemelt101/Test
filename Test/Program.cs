@@ -12,6 +12,7 @@ namespace Test
         {
             string toPrint = Console.ReadLine();
             Console.WriteLine("{0}", toPrint);
+            Console.WriteLine("{0}", toPrint);
         }
     }
 }
